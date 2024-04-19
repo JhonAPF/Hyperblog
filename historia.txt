@@ -1,4 +1,4 @@
 Este un un test del archivo de texto
 Colombia es un platanal sin oportunidades
-para el curso de git y github Hoy será un día de mucho aprendizaje
+para el curso de git y github Hoy será un día de mucho aprendizaje y cursos
 
