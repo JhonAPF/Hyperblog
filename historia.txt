@@ -1,4 +1,4 @@
 Este un un test del archivo de texto
-Colombia es un platanal sin oportunidades
-para el curso de git y github Hoy será un día de mucho aprendizaje y cursos
-Esta será la versión vvvvvvvvvxd
+Colombia
+para el curso de git y github
+Esta será la versión 0.1
