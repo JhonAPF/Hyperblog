@@ -1,15 +1,20 @@
-<div style="display: flex; align-items: center;">
-  <h1 style="margin-right: 10px;">Hyperblog</h1>
-  <img src="https://i.imgur.com/9HLVd7Z.gif" alt="source: imgur.com" height="50">
+# Hyperblog
+<h1 align="center"><strong>"Welcome"</strong></h1>
+
+<div align="center">
+  <img src="https://i.imgur.com/9HLVd7Z.gif" alt="source: imgur.com" style="width: 150px;">
 </div>
 
+---
 
-<div style="text-align:center; background-color:black; color:white; padding:10px;font-size: 10px;">
-    <h1><strong>"What You Do Today Will Be What You Will Be Tomorrow"</strong></h1>
+<h2 align="center"><strong>"What You Do Today Will Be What You Will Be Tomorrow"</strong></h2>
+
+---
+
+<div align="center">
+  <a href="https://imgur.com/YijLU6u">
+    <img src="https://i.imgur.com/YijLU6u.png" alt="source: imgur.com" style="width: 350px;">
+  </a>
 </div>
 
-<a href="https://imgur.com/YijLU6u"><img src="https://i.imgur.com/YijLU6u.png" title="source: imgur.com" height="10%"/></a>
-
-### Features
-
-
+## Features
