@@ -1,4 +1,7 @@
 Este un un test del archivo de texto
 Colombia
 para el curso de git y github
+
+Master 1
+
 Esta será la versión 0.1
