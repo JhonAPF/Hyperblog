@@ -1,6 +1,6 @@
 # Hyperblog
 <div align="center">
-  <img src="https://i.imgur.com/9HLVd7Z.gif" alt="source: imgur.com" style="width: 150px;">
+  <img src="https://i.imgur.com/9HLVd7Z.gif" alt="source: imgur.com" style="width: 350px;">
 </div>
 
 ---
